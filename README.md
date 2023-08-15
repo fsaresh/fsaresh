@@ -37,11 +37,9 @@ My experience is primarily on backend application development, with experience i
 - Databases >> PostgreSQL, Microsoft SQL Server, MongoDB, SQLite
 - Cloud Platforms >> Azure, AWS, Heroku
 - DevOps >> Docker, Kubernetes, Terraform, Jenkins, CircleCI
-- Other Technologies >> Postman, Retool
+- Other Technologies >> Git, Postman, Retool
 
 <p align="center">
-  <img width="20" height="20" src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
-  
   <img width="20" height="20" src="https://img.icons8.com/color/48/000000/python.png" alt="python"/> 
   <img width="20" height="20" src="https://img.icons8.com/color/48/000000/django.png" alt="django"/>
   <img width="20" height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java"/>
@@ -65,4 +63,8 @@ My experience is primarily on backend application development, with experience i
   <img width="20" height="20" src="https://img.icons8.com/color/48/000000/terraform.png" alt="terraform"/>
   <img width="20" height="20" src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins"/>
   <img width="20" height="20" src="https://img.icons8.com/color/48/000000/circleci.png" alt="circleci"/>
+
+  <img width="20" height="20" src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+  <img width="20" height="20" src="https://img.icons8.com/dusk/20/000000/postman-api.png" alt="postman-api"/>
+  
 </p>
