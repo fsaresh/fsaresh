@@ -18,7 +18,9 @@ Note/credit: template borrowed from https://github.com/Caruso33/caruso33/blob/ma
 <h1 align="center">Hi, my name is Farhan! </h1>
 
 <h3 align="center">Backend Software Engineer with staff-level backend experience.</h3>
-<h3 align="center">Strong focus on testable and maintainable code with future readers in mind.</h3>
+
+<h4 align="center">9+ years of technical experience, 2+ years of management experience.</h4>
+<h4 align="center">Strong focus on testable and maintainable code with future readers in mind. </h4>
 
 <div style="margin-top: 48px;" />
 
