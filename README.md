@@ -36,7 +36,7 @@ My experience is primarily on backend application development, with experience i
 - General Applications >> Python, Java, C++ (11, 14, 17), C#
 - Web >> Python, Django
 - APIs >> REST, GraphQL
-- Databases >> PostgreSQL, Microsoft SQL Server, MongoDB, SQLite
+- Databases >> PostgreSQL, Microsoft SQL Server, MongoDB, SQLite, Redis
 - Cloud Platforms >> Azure, AWS, Heroku
 - DevOps >> Docker, Kubernetes, Terraform, Jenkins, CircleCI
 - Other Technologies >> Git, Postman, Retool
@@ -56,6 +56,7 @@ My experience is primarily on backend application development, with experience i
   <img width="36" height="36" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgreesql"/>
   <img width="36" height="36" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="microsoft-sql-server"/>
   <img width="36" height="36" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
+  <img width="36" height="36" src="https://img.icons8.com/color/48/000000/redis.png" alt="redis"/>
 
   <img width="36" height="36" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure-1"/>
   <img width="36" height="36" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazon-web-services"/>
