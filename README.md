@@ -43,32 +43,32 @@ My experience is primarily on backend application development, with experience i
 
 <p align="center">
 
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/python.png" alt="python"/> 
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/django.png" alt="django"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="c-plus-plus"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/cs.png" alt="cs"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/python.png" alt="python" title="python"/> 
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/django.png" alt="django" title="django"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" title="java"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="c-plus-plus" title="c-plus-plus"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/cs.png" alt="cs" title="c-sharp"/>
 
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/api-settings.png" alt="api-settings"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql"/> 
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/api-settings.png" alt="REST APIs" title="REST APIs"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" title="graphql"/> 
   
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/sql.png" alt="sql"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgreesql"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="microsoft-sql-server"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/redis.png" alt="redis"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" title="sql"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgresql" title="postgresql"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="microsoft-sql-server" title="microsoft-sql-server"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" title="mongodb"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" title="redis"/>
 
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure-1"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazon-web-services"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/heroku.png" alt="heroku"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure" title="azure"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazon-web-services" title="amazon-web-services"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/heroku.png" alt="heroku" title="heroku"/>
   
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/> 
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/> 
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/terraform.png" alt="terraform"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/circleci.png" alt="circleci"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" title="docker"/> 
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" title="kubernetes"/> 
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/terraform.png" alt="terraform" title="terraform"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins" title="jenkins"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/circleci.png" alt="circleci" title="circleci"/>
 
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
-  <img width="30" height="30" src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="postman-api"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/git.png" alt="git" title="git"/>
+  <img width="30" height="30" src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="postman-api" title="postman-api"/>
   
 </p>
