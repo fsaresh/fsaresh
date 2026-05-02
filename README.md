@@ -41,30 +41,29 @@ My experience is primarily on backend application development, with experience i
 - Other Technologies >> Git, Postman, Retool
 
 <p align="center">
-
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/python.png" alt="python" title="python"/> 
+  <!-- Languages & frameworks -->
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/python.png" alt="python" title="python"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/django.png" alt="django" title="django"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" title="java"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" title="typescript"/>
-  
+  <!-- Databases -->
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" title="sql"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgresql" title="postgresql"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="microsoft-sql-server" title="microsoft-sql-server"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" title="mongodb"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" title="redis"/>
-
+  <!-- Cloud platforms -->
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure" title="azure"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazon-web-services" title="amazon-web-services"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/heroku.png" alt="heroku" title="heroku"/>
-  
+  <!-- DevOps -->
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/github.png" alt="github" title="github"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" title="docker"/> 
-  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" title="kubernetes"/> 
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" title="docker"/>
+  <img width="30" height="30" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" title="kubernetes"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/terraform.png" alt="terraform" title="terraform"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins" title="jenkins"/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/circleci.png" alt="circleci" title="circleci"/>
-
+  <!-- Other tools -->
   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/git.png" alt="git" title="git"/>
   <img width="30" height="30" src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="postman-api" title="postman-api"/>
-  
 </p>
