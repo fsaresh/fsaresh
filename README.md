@@ -19,7 +19,7 @@ Note/credit: template borrowed from https://github.com/Caruso33/caruso33/blob/ma
 
 <h3 align="center">Backend Software Engineer with staff-level backend experience.</h3>
 
-<h4 align="center">10+ years of industry experience, 4+ years of management experience.</h4>
+<h4 align="center">10+ years of industry experience, 5+ years of management experience.</h4>
 <h4 align="center">Strong focus on testable and maintainable code with future readers in mind. </h4>
 
 <div style="margin-top: 48px;" />
